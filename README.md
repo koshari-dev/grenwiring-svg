@@ -1,5 +1,4 @@
 How will we be editing our SVG files?​
-Hey team! Now that our GitHub repository is officially up and running, we need to decide on our development workflow for our SVG assets.
 
 Because SVGs are unique—they are both visual graphics and raw XML code—the tools we choose will change how we manage our files on GitHub.
 
